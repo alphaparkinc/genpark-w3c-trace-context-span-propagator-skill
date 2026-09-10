@@ -1,0 +1,17 @@
+{
+  "name": "genpark-w3c-trace-context-span-propagator-skill",
+  "version": "1.0.0",
+  "description": "W3C Trace Context propagator implementing 128-bit TraceID, 64-bit SpanID, sampled flags, and cross-service distributed trace header parsing.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "w3c-trace-context",
+    "distributed-tracing",
+    "opentelemetry",
+    "traceparent",
+    "context-propagation"
+  ],
+  "dependencies": []
+}
